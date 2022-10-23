@@ -1,6 +1,5 @@
 ---
-type: programming
-tags: index
+tags: programming , index
 ---
 
 # competitve programming

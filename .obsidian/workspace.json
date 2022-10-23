@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "43893d7b31fd098e",
+        "id": "899601525680a92d",
         "type": "tabs",
         "children": [
           {
-            "id": "67c88b227f079ee5",
+            "id": "e8f4d0c64399f610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Bill would bar NIH and CDC from funding lab research in China.md",
+                "file": "Drone/Drone.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "6b4943b41657d07e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plans/sophomore/微積分進度.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8ed0ec1132e3b9a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Drone/Drone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Drone/Drone.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Drone/Drone.md"
+              }
             }
           },
           {
@@ -179,17 +162,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8ed0ec1132e3b9a6",
+  "active": "e8f4d0c64399f610",
   "lastOpenFiles": [
-    "Drone.md",
-    "Kanban.md",
-    "雜項/大學 原文書.md",
+    "Source/pictures/Pasted image 20221023132740.png",
     "Drone/Drone.md",
-    "Plans/sophomore/二上 代辦事項.md",
-    "Plans/sophomore/計概進度.md",
-    "Plans/sophomore/微積分進度.md",
-    "Program learning/competitive programming/GPE problem list.md",
-    "Program learning/itron/Itron 教學內容.md",
-    "Program learning/competitive programming/C++ Syntax.md"
+    "Source/pictures/Pasted image 20221023132609.png",
+    "Source/pictures/Pasted image 20221023132437.png",
+    "Source/pictures/Pasted image 20221023132356.png",
+    "Source/pictures/Pasted image 20221023125811.png",
+    "Source/pictures/Pasted image 20221023125708.png",
+    "Source/pictures/Pasted image 20221023124740.png",
+    "a light bulb/names.md",
+    "Source/pictures/Pasted image 20221023123200.png"
   ]
 }
