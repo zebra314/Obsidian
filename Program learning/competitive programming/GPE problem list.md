@@ -1,5 +1,5 @@
 ---
-tags: programming , gpe , c++
+tags: programming, competitive_programming, c++
 ---
 # One star
 - [x] [The 3n + 1 problem](https://zerojudge.tw/ShowProblem?problemid=c039)

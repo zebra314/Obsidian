@@ -1,5 +1,5 @@
 ---
-tags: programming , itron 
+tags: itron 
 ---
 # 語法
 

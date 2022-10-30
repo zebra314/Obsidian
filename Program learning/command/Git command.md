@@ -1,5 +1,5 @@
 ---
-tags: programming , git , command
+tags: programming, command
 ---
 # Make some changes
 

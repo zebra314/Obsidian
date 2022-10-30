@@ -2,15 +2,21 @@
 tags: programming , index
 ---
 
-# competitve programming
+# Template of index
+
+tags:   __programming__, __theme(the name of the subfolder)__, __language__
+
+# Competitve programming
 - [[Algorithms]]
 - [[C++ Syntax]]
 - [[GPE problem list]]
 
-# computer vision
+# Computer Vision
+- [[OpenCV]]
+- [[Yolov5]]
 
-# command
+# Command
 - [[Git command]]
 
-# itron
+# Itron
 - [[Itron 教學內容]]

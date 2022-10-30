@@ -1,5 +1,5 @@
 ---
-tags: science , vocabulary
+tags: subject_note, vocabulary
 ---
 - inauspiciously
     > in aus pi cious ly

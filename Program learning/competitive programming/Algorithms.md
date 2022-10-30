@@ -1,5 +1,5 @@
 ---
-tags: programming , c++ , algorithms
+tags: programming, competitive_programming, c++ 
 ---
 # LIS基礎演算法
 

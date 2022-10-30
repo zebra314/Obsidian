@@ -1,5 +1,5 @@
 ---
-tags: subject note , programming 
+tags: subject_note , 轉學考 
 ---
 ## Ch1
 > Turing model 圖靈機

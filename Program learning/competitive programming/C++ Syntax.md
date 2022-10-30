@@ -1,5 +1,5 @@
 ---
-tags: programming , c++ , syntax
+tags: programming, competitive_programming, c++ 
 ---
 
 # ```set``` , ```multiset```

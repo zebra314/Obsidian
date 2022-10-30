@@ -1,5 +1,5 @@
 ---
-tags: science , vocabulary
+tags: subject_note, vocabulary
 ---
 - showcase
     > 展現

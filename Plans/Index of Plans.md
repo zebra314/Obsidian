@@ -1,9 +1,11 @@
 ---
-type : plans
-tags: index
+tags: plans, index
 ---
 
-# sophmore
+# Template of index
+tags:   __plans__, __theme(the name of the subfolder)__
+
+# Sophomore
 -[[二上 代辦事項]]
 -[[微積分進度]]
 -[[計概進度]]

@@ -67,5 +67,26 @@ why not perform stabilization on the flight computer?
 ![[Pasted image 20221023132609.png]]
 ![[Pasted image 20221023132740.png]]
 
+
+# 2022/10/30
+I have done some researchs about the drones previous days, and will make the learning list today.
+
 ## To kick start
 
+1. train model for opencv object detection 
+	1. yolo 
+	2. pytorch 研究
+	3. tensorflow 業界
+2. STM32
+	1. motor control 
+	2. msg communication
+3. drone
+	1. purchase the component 
+	2. camera
+	3. frame
+	4. motor
+	5. .....
+4. more about computer vision
+	1. stero vision
+	2. depth maps
+	3. 3D object detction
