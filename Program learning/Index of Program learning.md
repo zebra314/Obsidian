@@ -6,7 +6,7 @@ tags: programming , index
 
 tags:   __programming__, __theme(the name of the subfolder)__, __language__
 
-# Competitve programming
+# Basic programming
 - [[Algorithms]]
 - [[C++ Syntax]]
 - [[GPE problem list]]
@@ -18,5 +18,3 @@ tags:   __programming__, __theme(the name of the subfolder)__, __language__
 # Command
 - [[Git command]]
 
-# Itron
-- [[Itron 教學內容]]

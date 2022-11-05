@@ -1,5 +1,6 @@
 {
   "livePreview": false,
   "showLineNumber": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "promptDelete": false
 }
