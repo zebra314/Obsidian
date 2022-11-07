@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d3c13e7945129d7e",
+        "id": "a4749de1e2428f17",
         "type": "tabs",
         "children": [
           {
-            "id": "ba6ec72244847817",
+            "id": "2878b85f8ed3041e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "雜項/比賽紀錄.md",
+                "file": "Plans/Index of Plans.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "雜項/比賽紀錄.md",
+                "file": "Plans/Index of Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "雜項/比賽紀錄.md",
+                "file": "Plans/Index of Plans.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "雜項/比賽紀錄.md"
+                "file": "Plans/Index of Plans.md"
               }
             }
           },
@@ -159,17 +159,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "ba6ec72244847817",
+  "active": "2878b85f8ed3041e",
   "lastOpenFiles": [
-    "Source/pictures/Pasted image 20221023124740.png",
-    "雜項/比賽紀錄.md",
+    "Plans/sophomore/微積分進度.md",
+    "Plans/sophomore/計概進度.md",
+    "Plans/sophomore/二上 代辦事項.md",
+    "Itron/Itron 教學內容.md",
     "Itron/Index of itron.md",
     "Itron/Advantech AIoT InnoWorks 競賽.md",
+    "雜項/比賽紀錄.md",
+    "Source/pictures/Pasted image 20221023124740.png",
     "Program learning/Index of Program learning.md",
-    "Program learning/Basic programming/Python syntax.md",
-    "Program learning/Basic programming/C++ Syntax.md",
-    "Program learning/Computer vision/Yolov5.md",
-    "Plans/sophomore/二上 代辦事項.md",
-    "Itron/Itron 教學內容.md"
+    "Program learning/Basic programming/Python syntax.md"
   ]
 }
