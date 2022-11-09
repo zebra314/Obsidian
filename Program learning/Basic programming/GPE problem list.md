@@ -10,9 +10,9 @@ tags: programming, competitive_programming, c++
 - [ ] [Fibonaccimal Base](https://zerojudge.tw/ShowProblem?problemid=a134)
 - [ ] [What's Cryptanalysis](https://zerojudge.tw/ShowProblem?problemid=c044)
 - [ ] [Funny Encryption Method](https://zerojudge.tw/ShowProblem?problemid=e545)
-- [ ] [Primary Arithmetic](https://zerojudge.tw/ShowProblem?problemid=c014)
+- [x] [Primary Arithmetic](https://zerojudge.tw/ShowProblem?problemid=c014)
 - [ ] [Jolly Jumpers](https://zerojudge.tw/ShowProblem?problemid=d097)
-- [ ] [Vito's family](https://zerojudge.tw/ShowProblem?problemid=a737)
+- [x] [Vito's family](https://zerojudge.tw/ShowProblem?problemid=a737)
 - [ ] [Hartals](https://zerojudge.tw/ShowProblem?problemid=e579)
 - [ ] [Hashmat the Brave Warrior](https://zerojudge.tw/ShowProblem?problemid=a012)
 - [ ] [What is the Probability?](https://zerojudge.tw/ShowProblem?problemid=e510)
@@ -51,3 +51,5 @@ tags: programming, competitive_programming, c++
 - [ ] [Satellites](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1162)
 - [ ] [Can You Solve It?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1583)
 - [ ] [Cheapest Base](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1946)
+
+[GPE helper](https://gpe-helper.setsal.dev/problems)

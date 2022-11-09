@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/Index of Plans.md",
+                "file": "Program learning/Basic programming/GPE problem list.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plans/Index of Plans.md",
+                "file": "Program learning/Basic programming/GPE problem list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/Index of Plans.md",
+                "file": "Program learning/Basic programming/GPE problem list.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plans/Index of Plans.md"
+                "file": "Program learning/Basic programming/GPE problem list.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "2878b85f8ed3041e",
   "lastOpenFiles": [
+    "Program learning/Basic programming/C++ Syntax.md",
+    "Program learning/Basic programming/Algorithms.md",
+    "Program learning/Basic programming/Python syntax.md",
+    "Program learning/Basic programming/GPE problem list.md",
+    "Plans/Index of Plans.md",
     "Plans/sophomore/微積分進度.md",
     "Plans/sophomore/計概進度.md",
     "Plans/sophomore/二上 代辦事項.md",
     "Itron/Itron 教學內容.md",
-    "Itron/Index of itron.md",
-    "Itron/Advantech AIoT InnoWorks 競賽.md",
-    "雜項/比賽紀錄.md",
-    "Source/pictures/Pasted image 20221023124740.png",
-    "Program learning/Index of Program learning.md",
-    "Program learning/Basic programming/Python syntax.md"
+    "Itron/Index of itron.md"
   ]
 }
