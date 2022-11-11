@@ -95,3 +95,19 @@ int binary_search(vector<int>v,int target) //find the position
     }
     //最大公因數為max(b,c)
 ```
+
+# types of algorithms
+1. 排序 搜尋法
+2. greedy 
+3. dynamic programming
+4. graph traversal
+	1. tree cut
+5. minimum spanning tree
+	1. prim 
+	2. kruskal 
+6. Shortest Path
+	1. Bellman-Ford
+	2. Dijkstra
+	3. Floyd-Warshall
+	4. A*
+7. maximum flow (hard)

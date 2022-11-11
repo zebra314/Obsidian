@@ -37,7 +37,7 @@ tags: programming, competitive_programming, c++
 - [ ] [Beat the Spread!](https://zerojudge.tw/ShowProblem?problemid=c004)
 - [ ] [Largest Squares](https://zerojudge.tw/ShowProblem?problemid=e575)
 - [ ] [2 the 9s](https://zerojudge.tw/ShowProblem?problemid=d672)
-- [ ] [You can say 11](https://zerojudge.tw/ShowProblem?problemid=d235)
+- [x] [You can say 11](https://zerojudge.tw/ShowProblem?problemid=d235)
 - [ ] [Parity](https://zerojudge.tw/ShowProblem?problemid=a132)
 - [ ] [B2-Sequence](https://zerojudge.tw/ShowProblem?problemid=d123)
 - [ ] [Cola](https://zerojudge.tw/ShowProblem?problemid=d189)
@@ -53,3 +53,4 @@ tags: programming, competitive_programming, c++
 - [ ] [Cheapest Base](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1946)
 
 [GPE helper](https://gpe-helper.setsal.dev/problems)
+[c++ reference](https://cplusplus.com/reference/)
