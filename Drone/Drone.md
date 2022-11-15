@@ -90,3 +90,8 @@ I have done some researchs about the drones previous days, and will make the lea
 	1. stero vision
 	2. depth maps
 	3. 3D object detction
+# 2022/11/11
+
+無人機實作課
+1. 再次安裝了STM32的ID [STM32Cube IDE](https://www.st.com/en/development-tools/stm32cubeide.html#st-get-software)
+2. 
