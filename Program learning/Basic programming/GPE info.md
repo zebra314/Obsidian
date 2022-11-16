@@ -11,7 +11,7 @@ tags: programming, competitive_programming, c++
 - [x] [What's Cryptanalysis](https://zerojudge.tw/ShowProblem?problemid=c044)
 - [ ] [Funny Encryption Method](https://zerojudge.tw/ShowProblem?problemid=e545)
 - [x] [Primary Arithmetic](https://zerojudge.tw/ShowProblem?problemid=c014)
-- [ ] [Jolly Jumpers](https://zerojudge.tw/ShowProblem?problemid=d097)
+- [x] [Jolly Jumpers](https://zerojudge.tw/ShowProblem?problemid=d097)
 - [x] [Vito's family](https://zerojudge.tw/ShowProblem?problemid=a737)
 - [ ] [Hartals](https://zerojudge.tw/ShowProblem?problemid=e579)
 - [ ] [Hashmat the Brave Warrior](https://zerojudge.tw/ShowProblem?problemid=a012)
