@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/C++ Syntax.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/C++ Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/C++ Syntax.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md"
+                "file": "Program learning/Basic programming/C++ Syntax.md"
               }
             }
           },
@@ -161,10 +161,10 @@
   },
   "active": "2878b85f8ed3041e",
   "lastOpenFiles": [
-    "Program learning/Basic programming/Python syntax.md",
     "Program learning/Basic programming/GPE info.md",
-    "Drone/Drone.md",
     "Program learning/Basic programming/C++ Syntax.md",
+    "Program learning/Basic programming/Python syntax.md",
+    "Drone/Drone.md",
     "README.md",
     "Program learning/Basic programming/Algorithms.md",
     "Plans/Index of Plans.md",

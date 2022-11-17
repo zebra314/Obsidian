@@ -108,4 +108,10 @@ cin.tie(0);
 + ```.sort( 起始位置 , 結束位置 , 排序依據 0 or 1)```
 + 排序依據 預設為小到大
 
-&nbsp;
+# 小數點輸出位數
+
+```c
+cout<<setprecision()<<....
+```
+
+#  ```setiosflags(ios::fixed)```
