@@ -94,4 +94,6 @@ I have done some researchs about the drones previous days, and will make the lea
 
 無人機實作課
 1. 再次安裝了STM32的ID [STM32Cube IDE](https://www.st.com/en/development-tools/stm32cubeide.html#st-get-software)
-2. 
+
+# 2022/11/18
+1. mavlink, mavROS
