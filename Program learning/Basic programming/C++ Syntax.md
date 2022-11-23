@@ -108,10 +108,42 @@ cin.tie(0);
 + ```.sort( 起始位置 , 結束位置 , 排序依據 0 or 1)```
 + 排序依據 預設為小到大
 
-# 小數點輸出位數
+# 小數點輸出
 
+1. 輸出四位有效位數
 ```c
-cout<<setprecision()<<....
+cout<<setprecision(4)<<....;
 ```
 
-#  ```setiosflags(ios::fixed)```
+2. 出到小數點後第四位 不足補零
+ ```c
+ cout<<setprecision(4)<<setiosflags(ios::fixed)<<....;
+ ```
+
+# string int 轉換
+
+1. 刪除空格, 萃取數字
+```c
+    stringstream ss;
+    ss.clear();
+    ss.str("");
+
+	string num = "123 345 456 77 789";
+	int temp;
+	ss<<num; // string
+	while(ss>>temp) // 分次流出 // 匯出成string或int 都可以 
+	{
+		cout<<temp<<" "; // int
+	}
+```
+
+2. int to string
+```c
+	stringstream b;
+	b.str("")
+	b.clear();
+	
+	b<< (int);
+	b>>(string);
+
+```

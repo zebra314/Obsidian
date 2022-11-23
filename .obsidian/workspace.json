@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4749de1e2428f17",
+        "id": "1ef6ef3d1830069a",
         "type": "tabs",
         "children": [
           {
-            "id": "2878b85f8ed3041e",
+            "id": "c8569145566585f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Basic programming/C++ Syntax.md",
+                "file": "Program learning/Basic programming/GPE info.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program learning/Basic programming/C++ Syntax.md",
+                "file": "Program learning/Basic programming/GPE info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program learning/Basic programming/C++ Syntax.md",
+                "file": "Program learning/Basic programming/GPE info.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program learning/Basic programming/C++ Syntax.md"
+                "file": "Program learning/Basic programming/GPE info.md"
               }
             }
           },
@@ -159,17 +159,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "2878b85f8ed3041e",
+  "active": "c8569145566585f9",
   "lastOpenFiles": [
-    "Program learning/Basic programming/GPE info.md",
     "Program learning/Basic programming/C++ Syntax.md",
-    "Program learning/Basic programming/Python syntax.md",
+    "Program learning/Basic programming/GPE info.md",
+    "Subject note/轉學考/Foundation of computer science.md",
     "Drone/Drone.md",
+    "Program learning/Basic programming/Python syntax.md",
     "README.md",
     "Program learning/Basic programming/Algorithms.md",
     "Plans/Index of Plans.md",
     "Plans/sophomore/微積分進度.md",
-    "Plans/sophomore/計概進度.md",
-    "Plans/sophomore/二上 代辦事項.md"
+    "Plans/sophomore/計概進度.md"
   ]
 }
