@@ -11,5 +11,5 @@ tags: programming, command
 
 # Contribute
 
-1. open nem pull request
+1. open new pull request
 2. 打一些comment

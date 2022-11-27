@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ef6ef3d1830069a",
+        "id": "494f365f4e2324d3",
         "type": "tabs",
         "children": [
           {
-            "id": "c8569145566585f9",
+            "id": "d7f30a8ded56dfb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/C++ syntax.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/C++ syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/C++ syntax.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md"
+                "file": "Program learning/Basic programming/C++ syntax.md"
               }
             }
           },
@@ -159,17 +159,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "c8569145566585f9",
+  "active": "d7f30a8ded56dfb6",
   "lastOpenFiles": [
-    "Program learning/Basic programming/C++ Syntax.md",
-    "Program learning/Basic programming/GPE info.md",
-    "Subject note/轉學考/Foundation of computer science.md",
-    "Drone/Drone.md",
     "Program learning/Basic programming/Python syntax.md",
-    "README.md",
+    "Program learning/Basic programming/C++ syntax.md",
+    "Program learning/Command/Git command.md",
+    "Program learning/Basic programming/GPE info.md",
     "Program learning/Basic programming/Algorithms.md",
-    "Plans/Index of Plans.md",
-    "Plans/sophomore/微積分進度.md",
-    "Plans/sophomore/計概進度.md"
+    "Itron/Index of itron.md",
+    "Sundry/Index of Sundry.md",
+    "Program learning/Index of Program learning.md",
+    "Program learning/Drone/Drone.md",
+    "Plans/Index of Plans.md"
   ]
 }

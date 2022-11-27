@@ -8,8 +8,9 @@ tags:   __programming__, __theme(the name of the subfolder)__, __language__
 
 # Basic programming
 - [[Algorithms]]
-- [[C++ Syntax]]
-- [[GPE problem list]]
+- [[C++ syntax]]
+- [[GPE info]]
+- [[Python syntax]]
 
 # Computer Vision
 - [[OpenCV]]
@@ -18,3 +19,5 @@ tags:   __programming__, __theme(the name of the subfolder)__, __language__
 # Command
 - [[Git command]]
 
+# Drone
+- [[Drone]]

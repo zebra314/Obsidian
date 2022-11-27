@@ -97,3 +97,15 @@ I have done some researchs about the drones previous days, and will make the lea
 
 # 2022/11/18
 1. mavlink, mavROS
+
+# 2022/11/25
+
+1. ISR 
+	1. Interrupt service routine 
+	2. 中斷處理程式
+2. IRQ 
+	1. Interrupt Request 
+	2. 中斷
+3. NVIC
+	1. Nested vectored interrupt controller
+
