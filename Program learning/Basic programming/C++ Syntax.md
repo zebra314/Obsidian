@@ -42,10 +42,14 @@ cin.get() //可接受空格與換行 //與getchar()功能差不多
 # lower_bound(),  upper_bound()
 
 1. ```lower_bound(``` _.begin()_ ```,``` _.end()_ ```,``` _value_ ```)```
-2. 返回數值  
+2. 返回位置
 3. Binary Search
 4. ```*lower_bound()``` 指向該數值的儲存位置
 5. 可用來取代數值
+```c
+ posi = lower_bound(vector.begin(),vector.end(),int); // <= , 最大 小於等於int 的數
+ posi = upper_bound(vector.begin(),vector.end(),int); // > , 最小 大於int 的數
+```
 
 # find()
 
