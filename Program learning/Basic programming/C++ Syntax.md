@@ -219,3 +219,25 @@ for( const auto &n :a)    //n的&省略會噴錯
 // 2 3 1
 // 3 4 0
 ```
+# Custom sort rule
+ ```c
+ bool rule(type<...>i, type<...>j)
+ {
+	 if(...)
+		 return...>...
+	else 
+		return ...<...
+}
+```
+- Ex
+```c
+bool rule(pair<int,int> i, pair<int,int>j)
+{
+    if(i.second != j.second)
+        return i.second < j.second;
+    else
+        return i.first > j.first;
+}
+
+sort
+```
