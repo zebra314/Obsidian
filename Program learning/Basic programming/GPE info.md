@@ -21,7 +21,7 @@ tags: programming, competitive_programming, c++
 - [x] [Back to High School Physics](https://zerojudge.tw/ShowProblem?problemid=d226)
 - [x] [Bangla Numbers](https://zerojudge.tw/ShowProblem?problemid=a741)
 - [x] [The Hotel with Infinite Rooms](https://zerojudge.tw/ShowProblem?problemid=e555)
-- [ ] [Minesweeper](https://zerojudge.tw/ShowProblem?problemid=e605)
+- [x] [Minesweeper](https://zerojudge.tw/ShowProblem?problemid=e605)
 - [ ] [Divide, But Not Quite Conquer!](https://zerojudge.tw/ShowProblem?problemid=e566)
 - [ ] [All You Need Is Love](https://zerojudge.tw/ShowProblem?problemid=d306)
 - [x] [Decode the Mad man](https://zerojudge.tw/ShowProblem?problemid=e578)

@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "494f365f4e2324d3",
+        "id": "14db316ab327fea0",
         "type": "tabs",
         "children": [
           {
-            "id": "d7f30a8ded56dfb6",
+            "id": "f97a7af06fe64bc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Program learning/Basic programming/GPE info.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "370a6032780027e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "db7519d1f7a992bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d279aa579fa82d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sundry/Blender.md",
-                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sundry/Blender.md",
+                "file": "Program learning/Basic programming/GPE info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sundry/Blender.md",
+                "file": "Program learning/Basic programming/GPE info.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sundry/Blender.md"
+                "file": "Program learning/Basic programming/GPE info.md"
               }
             }
           },
@@ -196,15 +159,15 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "084eb01a649fc785",
+  "active": "f97a7af06fe64bc0",
   "lastOpenFiles": [
+    "Sundry/Blender.md",
+    "Program learning/Basic programming/GPE info.md",
     "Sundry/Internet.md",
     "Sundry/Steam egg.md",
     "Untitled.md",
     "Program learning/Basic programming/C++ syntax.md",
-    "Program learning/Basic programming/GPE info.md",
     "Program learning/Basic programming/Algorithms.md",
-    "Sundry/Blender.md",
     "Program learning/Computer vision/Yolov5.md",
     "Program learning/Command/Git command.md",
     "Program learning/Basic programming/Python syntax.md"
