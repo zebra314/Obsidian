@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14db316ab327fea0",
+        "id": "19c501a582267db7",
         "type": "tabs",
         "children": [
           {
-            "id": "f97a7af06fe64bc0",
+            "id": "77cc53264b99090b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/C++ syntax.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/C++ syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/C++ syntax.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md"
+                "file": "Program learning/Basic programming/C++ syntax.md"
               }
             }
           },
@@ -159,17 +159,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f97a7af06fe64bc0",
+  "active": "77cc53264b99090b",
   "lastOpenFiles": [
-    "Sundry/Blender.md",
     "Program learning/Basic programming/GPE info.md",
-    "Sundry/Internet.md",
-    "Sundry/Steam egg.md",
-    "Untitled.md",
-    "Program learning/Basic programming/C++ syntax.md",
-    "Program learning/Basic programming/Algorithms.md",
-    "Program learning/Computer vision/Yolov5.md",
-    "Program learning/Command/Git command.md",
-    "Program learning/Basic programming/Python syntax.md"
+    "Plans/sophomore/二年級寒假 計畫.md",
+    "Program learning/Index of Program learning.md",
+    "Program learning/Basic programming/Python syntax.md",
+    "Plans/Index of Plans.md",
+    "Plans/sophomore/二上 代辦事項.md",
+    "Plans/sophomore/計概進度.md",
+    "Plans/sophomore/微積分進度.md",
+    "Program learning/Drone/Drone.md",
+    "Program learning/Command/Git command.md"
   ]
 }
