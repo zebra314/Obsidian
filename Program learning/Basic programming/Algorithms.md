@@ -1,6 +1,31 @@
 ---
 tags: programming, competitive_programming, c++ 
 ---
+# LCS (longest common subsequence)
+## 思路
+1. 建表
+2. 若字母相同 值等於左邊的值加一
+3. 若字母不同 等於左邊或上方較大者
+## 解法
+```c
+int longestCommonSubsequence(string text1, string text2) 
+{
+	int dp[1001][1001] = {0};
+	for(int i = 1; i<=text1.length(); i++) //直的
+	{
+	    for(int j = 1; j<=text2.length(); j++) // 橫的
+	    {
+		    dp[i][j] = (text1[i-1] == text2[j-1])? dp[i-1][j-1]+1:max(dp[i][j-1], dp[i-1][j]);
+                // if(text1[i-1] == text2[j-1])
+                //     dp[i][j] = dp[i][j-1]+1;
+                // else
+                //     dp[i][j] = max(dp[i][j-1], dp[i-1][j]);
+        }
+        return dp[text1.length()][text2.length()];
+    }
+}
+```
+
 # LIS基礎演算法
 
 1. 時間複雜度:O(n<sup>2</sup>)
@@ -94,6 +119,13 @@ int binary_search(vector<int>v,int target) //find the position
             c=c%b;
     }
     //最大公因數為max(b,c)
+```
+```c
+int GCD(int a, int b)
+{
+    if(a<b) swap(a,b); // make a to be the bigger one // not necessary
+    return a%b==0 ? b : GCD(b, a%b);
+}
 ```
 
 # types of algorithms

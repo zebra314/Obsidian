@@ -178,7 +178,10 @@ while(ss>>temp) // 分次流出 // 匯出成string或int 都可以
 	cout<<temp<<" "; // int
 }
 ```
-
+## stoi
+```
+string a ="123"
+```
 ## int to string
 ```c
 stringstream b;
@@ -229,7 +232,7 @@ for( const auto &n :a)    //n的&省略會噴錯
 		return ...<...
 }
 ```
-- Ex
+- example
 ```c
 bool rule(pair<int,int> i, pair<int,int>j)
 {
@@ -240,4 +243,35 @@ bool rule(pair<int,int> i, pair<int,int>j)
 }
 
 sort
+```
+
+# 三元運算子
+## how
+- 判斷 ? 前面的條件式
+- : 相當於or 
+## example 1
+```c
+	if(x == true) 
+		val = y;
+	else 
+		val = z;
+```
+```c
+	val = x ? y : z ;
+```
+
+## example 2
+```c
+// 輾轉相除法 GCD
+int GCD(int a, int b)
+{
+    if(a<b) swap(a,b); // make a to be the bigger one
+    if(a%b == 0)
+        return b;
+    else
+        return GCD(a%b,b);
+}
+```
+```c
+int GCD(int a, int b){ return b == 0 ? a : GCD(b, a % b); }
 ```
