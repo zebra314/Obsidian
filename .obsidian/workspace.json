@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "19c501a582267db7",
+        "id": "fa48d05685fea07e",
         "type": "tabs",
         "children": [
           {
-            "id": "77cc53264b99090b",
+            "id": "8b7348ac1ba4fb61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Basic programming/C++ syntax.md",
+                "file": "Program learning/Basic programming/GPE info.md",
                 "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "7c1aea8f018d324f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program learning/Basic programming/C++ syntax.md",
+                "file": "Program learning/Basic programming/GPE info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program learning/Basic programming/C++ syntax.md",
+                "file": "Program learning/Basic programming/GPE info.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program learning/Basic programming/C++ syntax.md"
+                "file": "Program learning/Basic programming/GPE info.md"
               }
             }
           },
@@ -159,17 +169,29 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "77cc53264b99090b",
+  "left-ribbon": {
+    "hiddenItems": {
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8b7348ac1ba4fb61",
   "lastOpenFiles": [
-    "Program learning/Drone/Drone.md",
-    "Program learning/Basic programming/GPE info.md",
     "Program learning/Basic programming/C++ syntax.md",
+    "Program learning/Basic programming/GPE info.md",
+    "Sundry/比賽紀錄.md",
+    "Plans/sophomore/二年級寒假 計畫.md",
+    "Program learning/Basic programming/Data structure.md",
+    "Program learning/Drone/Drone.md",
     "Program learning/Basic programming/Algorithms.md",
     "Program learning/Computer vision/Yolov5.md",
-    "Plans/sophomore/二年級寒假 計畫.md",
     "Plans/sophomore/計概進度.md",
-    "Program learning/Basic programming/Python syntax.md",
-    "Plans/Index of Plans.md",
-    "Program learning/Index of Program learning.md"
+    "Program learning/Basic programming/Python syntax.md"
   ]
 }
