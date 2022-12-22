@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/Algorithms.md",
                 "mode": "preview",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "7c1aea8f018d324f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/Algorithms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md"
+                "file": "Program learning/Basic programming/Algorithms.md"
               }
             }
           },
@@ -185,11 +175,11 @@
   "lastOpenFiles": [
     "Program learning/Basic programming/C++ syntax.md",
     "Program learning/Basic programming/GPE info.md",
+    "Program learning/Basic programming/Algorithms.md",
     "Sundry/比賽紀錄.md",
     "Plans/sophomore/二年級寒假 計畫.md",
     "Program learning/Basic programming/Data structure.md",
     "Program learning/Drone/Drone.md",
-    "Program learning/Basic programming/Algorithms.md",
     "Program learning/Computer vision/Yolov5.md",
     "Plans/sophomore/計概進度.md",
     "Program learning/Basic programming/Python syntax.md"

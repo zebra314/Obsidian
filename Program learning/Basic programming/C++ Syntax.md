@@ -142,7 +142,7 @@ cout<<setprecision(4)<<....;
 
 - 出到小數點後第四位 不足補零
  ```c
- cout<<setprecision(4)<<setiosflags(ios::fixed)<<....;
+ cout<<setprecision(4)<<fixed<<....;
  ```
 
 # sstream

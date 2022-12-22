@@ -1,6 +1,14 @@
 ---
 tags: programming, competitive_programming, c++ 
 ---
+# 十進位轉二進位
+```c
+	string ans_str // 不能用int 轉換完的二進位數字很可能裝不下
+    while (input != 0){ // input 可以用int
+        ans_str =  ( input % 2 == 0 ? "0" : "1" )+ ans_str;
+        input /= 2;
+    }
+```
 # LCS (longest common subsequence)
 ## 思路
 1. 建表

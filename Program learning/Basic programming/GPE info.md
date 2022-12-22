@@ -48,8 +48,8 @@ tags: programming, competitive_programming, c++
 - [x] [Square Numbers](https://zerojudge.tw/ShowProblem?problemid=d186)
 - [x] [Doom's Day Algorithm](https://zerojudge.tw/ShowProblem?problemid=f709)
 - [x] [An Easy Problem!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1034)
-- [ ] [Satellites](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1162)
-- [ ] [Can You Solve It?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1583)
+- [x] [Satellites](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1162)
+- [x] [Can You Solve It?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1583)
 - [ ] [Cheapest Base](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1946)
 
 [GPE helper](https://gpe-helper.setsal.dev/problems)
