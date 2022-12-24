@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Basic programming/Algorithms.md",
-                "mode": "preview",
+                "file": "Program learning/Basic programming/C++ syntax.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "44f591285efdb965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Program learning/Software developing/概想.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program learning/Basic programming/Algorithms.md",
+                "file": "Program learning/Basic programming/C++ syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program learning/Basic programming/Algorithms.md",
+                "file": "Program learning/Basic programming/C++ syntax.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program learning/Basic programming/Algorithms.md"
+                "file": "Program learning/Basic programming/C++ syntax.md"
               }
             }
           },
@@ -173,15 +185,15 @@
   },
   "active": "8b7348ac1ba4fb61",
   "lastOpenFiles": [
-    "Program learning/Basic programming/C++ syntax.md",
     "Program learning/Basic programming/GPE info.md",
+    "Plans/sophomore/二年級寒假 計畫.md",
+    "().md",
+    "Program learning/Basic programming/C++ syntax.md",
     "Program learning/Basic programming/Algorithms.md",
     "Sundry/比賽紀錄.md",
-    "Plans/sophomore/二年級寒假 計畫.md",
     "Program learning/Basic programming/Data structure.md",
     "Program learning/Drone/Drone.md",
     "Program learning/Computer vision/Yolov5.md",
-    "Plans/sophomore/計概進度.md",
-    "Program learning/Basic programming/Python syntax.md"
+    "Plans/sophomore/計概進度.md"
   ]
 }

@@ -275,3 +275,16 @@ int GCD(int a, int b)
 ```c
 int GCD(int a, int b){ return b == 0 ? a : GCD(b, a % b); }
 ```
+# Map
+## unordered_map
+- 沒有排序過的map
+## iterator
+```c
+	unordered_map<int, int> ans;
+	/*init...*/
+	// find the target
+	auto posi = ans.find(target);
+    if( posi != ans.end()){ // 如果有找到
+		/*....*/
+    }
+```
