@@ -61,3 +61,11 @@ tags: programming, command
 	- short-lived: feature, release, hotfixes branches
 3. Determine the branching model
 	-  consider project, release cycle, team
+
+# Fetch
+1. git fetch
+	- 可以取得遠端數據庫的最新歷史記錄, 取得的提交會導入在自動建立的分支中, 並可以切換這個名為 FETCH_HEAD 的分支
+
+# Pull
+1. git pull
+	- = git pull + git merge FETCH_HEAD
