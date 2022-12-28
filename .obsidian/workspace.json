@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Basic programming/Algorithms.md",
-                "mode": "source",
+                "file": "Program learning/command/Git command.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -23,16 +23,11 @@
             "id": "ff5c9d6bd72c430b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Program learning/Basic programming/Dynamic Programming.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program learning/Basic programming/Dynamic Programming.md",
+                "file": "Program learning/command/Git command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program learning/Basic programming/Dynamic Programming.md",
+                "file": "Program learning/command/Git command.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program learning/Basic programming/Dynamic Programming.md"
+                "file": "Program learning/command/Git command.md"
               }
             }
           },
@@ -184,17 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff5c9d6bd72c430b",
+  "active": "0f707c8358247579",
   "lastOpenFiles": [
-    "Program learning/Basic programming/Algorithms.md",
+    "Program learning/Basic programming/Data structure.md",
+    "Program learning/Basic programming/C++ Syntax.md",
+    "Program learning/Index of Program learning.md",
     "Program learning/Basic programming/Dynamic Programming.md",
+    "Program learning/command/Git command.md",
+    "Program learning/Basic programming/Algorithms.md",
     "Program learning/Basic programming/GPE info.md",
     "Program learning/Basic programming/C++ syntax.md",
     "Plans/sophomore/二年級寒假 計畫.md",
-    "().md",
-    "Sundry/比賽紀錄.md",
-    "Program learning/Basic programming/Data structure.md",
-    "Program learning/Drone/Drone.md",
-    "Program learning/Computer vision/Yolov5.md"
+    "().md"
   ]
 }
