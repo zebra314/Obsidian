@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "fa48d05685fea07e",
+        "id": "972c8053a9a892d8",
         "type": "tabs",
         "children": [
           {
-            "id": "8b7348ac1ba4fb61",
+            "id": "0f707c8358247579",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Basic programming/C++ syntax.md",
+                "file": "Program learning/Basic programming/Algorithms.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "ff04d9b4be6e2f75",
+            "id": "ff5c9d6bd72c430b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "44f591285efdb965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Program learning/Software developing/概想.md",
+                "file": "Program learning/Basic programming/Dynamic Programming.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
+                "file": "Program learning/Basic programming/Dynamic Programming.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program learning/Basic programming/GPE info.md"
+                "file": "Program learning/Basic programming/Dynamic Programming.md"
               }
             }
           },
@@ -196,17 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff04d9b4be6e2f75",
+  "active": "ff5c9d6bd72c430b",
   "lastOpenFiles": [
-    "Program learning/Basic programming/C++ syntax.md",
+    "Program learning/Basic programming/Algorithms.md",
+    "Program learning/Basic programming/Dynamic Programming.md",
     "Program learning/Basic programming/GPE info.md",
+    "Program learning/Basic programming/C++ syntax.md",
     "Plans/sophomore/二年級寒假 計畫.md",
     "().md",
-    "Program learning/Basic programming/Algorithms.md",
     "Sundry/比賽紀錄.md",
     "Program learning/Basic programming/Data structure.md",
     "Program learning/Drone/Drone.md",
-    "Program learning/Computer vision/Yolov5.md",
-    "Plans/sophomore/計概進度.md"
+    "Program learning/Computer vision/Yolov5.md"
   ]
 }
