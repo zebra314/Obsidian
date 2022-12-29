@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "972c8053a9a892d8",
+        "id": "3285b04d98940e63",
         "type": "tabs",
         "children": [
           {
-            "id": "0f707c8358247579",
+            "id": "0d9b3139c65a2c31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/command/Git command.md",
+                "file": "Program learning/Basic programming/GPE info.md",
                 "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "ff5c9d6bd72c430b",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
             }
           }
         ]
@@ -93,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program learning/command/Git command.md",
+                "file": "Program learning/Basic programming/GPE info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program learning/command/Git command.md",
+                "file": "Program learning/Basic programming/GPE info.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program learning/command/Git command.md"
+                "file": "Program learning/Basic programming/GPE info.md"
               }
             }
           },
@@ -179,16 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f707c8358247579",
+  "active": "b620f318a0045dcd",
   "lastOpenFiles": [
+    "Program learning/Basic programming/C++ syntax.md",
+    "Program learning/Basic programming/GPE info.md",
     "Program learning/Basic programming/Data structure.md",
     "Program learning/Basic programming/C++ Syntax.md",
     "Program learning/Index of Program learning.md",
     "Program learning/Basic programming/Dynamic Programming.md",
     "Program learning/command/Git command.md",
     "Program learning/Basic programming/Algorithms.md",
-    "Program learning/Basic programming/GPE info.md",
-    "Program learning/Basic programming/C++ syntax.md",
     "Plans/sophomore/二年級寒假 計畫.md",
     "().md"
   ]
