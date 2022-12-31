@@ -109,6 +109,11 @@ I have done some researchs about the drones previous days, and will make the lea
 3. NVIC
 	1. Nested vectored interrupt controller
 
-# 2022/12/9
+# 2022/12/31
+1. 去歐庭緯學長家拿無人機了, 有給了一些教學
+2. 整理好ubuntu, 只差microsoft的東西還沒裝(of mice and sand ubuntu不能玩 難過)
+3. 安裝mavros [安裝教學](https://docs.px4.io/main/en/ros/mavros_installation.html)
+4. 安裝PX4
+5. 安裝gazebo
 
 
