@@ -22,4 +22,4 @@ tags:   __programming__, __theme(the name of the subfolder)__, __language__
 - [[Git command]]
 
 # Drone
-- [[Drone]]
+- [[開發日誌]]

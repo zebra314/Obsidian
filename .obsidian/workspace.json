@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Drone/Drone.md",
+                "file": "Program learning/Drone/開發日誌.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Drone/Drone.md",
+                "file": "Program learning/Drone/仿真 command.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "65124079d5d1b82a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Program learning/Drone/開發日誌.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cf25fd2f8e25da06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sundry/A light bulb.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program learning/Drone/Drone.md",
+                "file": "Program learning/Drone/仿真 command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program learning/Drone/Drone.md",
+                "file": "Program learning/Drone/仿真 command.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program learning/Drone/Drone.md"
+                "file": "Program learning/Drone/仿真 command.md"
               }
             }
           },
@@ -186,15 +210,15 @@
   },
   "active": "dd504740910a8bca",
   "lastOpenFiles": [
-    "Program learning/Drone/Untitled.md",
-    "Program learning/Drone/Drone.md",
+    "Program learning/Drone/Nouns.md",
+    "Sundry/A light bulb.md",
+    "Program learning/Drone/Progress.md",
+    "Program learning/Drone/仿真 command.md",
+    "Program learning/Drone/開發日誌.md",
+    "Program learning/Software developing/概想.md",
+    "Program learning/Index of Program learning.md",
     "Program learning/Drone/2022.12.31.md",
     "Program learning/Basic programming/GPE info.md",
-    "Program learning/Basic programming/C++ syntax.md",
-    "Program learning/Basic programming/Data structure.md",
-    "Program learning/Basic programming/C++ Syntax.md",
-    "Program learning/Index of Program learning.md",
-    "Program learning/Basic programming/Dynamic Programming.md",
-    "Program learning/command/Git command.md"
+    "Program learning/Basic programming/C++ syntax.md"
   ]
 }
