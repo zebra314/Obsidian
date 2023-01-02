@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d9b3139c65a2c31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Program learning/Drone/開發日誌.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dd504740910a8bca",
+            "id": "5c34ec07328f757d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "65124079d5d1b82a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Program learning/Drone/開發日誌.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cf25fd2f8e25da06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sundry/A light bulb.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,13 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd504740910a8bca",
+  "active": "5c34ec07328f757d",
   "lastOpenFiles": [
     "Program learning/Drone/Nouns.md",
-    "Sundry/A light bulb.md",
-    "Program learning/Drone/Progress.md",
     "Program learning/Drone/仿真 command.md",
     "Program learning/Drone/開發日誌.md",
+    "Sundry/A light bulb.md",
+    "Program learning/Drone/Progress.md",
     "Program learning/Software developing/概想.md",
     "Program learning/Index of Program learning.md",
     "Program learning/Drone/2022.12.31.md",
