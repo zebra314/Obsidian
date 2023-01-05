@@ -21,6 +21,7 @@ tags: drone , itron , programming
 	- 運行在Pixhawk(飛控)上
 	- autoPilot
 	- 其地面控制站為QGroundControl (QGC)
+	- PX4 based FCU (Flight Control Unit)
 2. Arudpilot
 	- firmware 韌體
 	- 可運行在Pixhawk或APM上
