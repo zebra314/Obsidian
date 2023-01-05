@@ -7,6 +7,7 @@ tags: programming, command
 	- [[Vim#Insert]]
 - Navigating
 	- h j k l
+	- w b e
 	- [[Vim#Navigate]]
 - making changes in command mode
 	- x r
@@ -20,6 +21,8 @@ tags: programming, command
 	> :
 3. visual
 	> v
+4. search
+	> /
 
 # Insert
 1. before cursor
@@ -39,15 +42,42 @@ tags: programming, command
 	> k
 4. 右
 	> l
-5. 或方向鍵
-6. navigate with line number
-	> : *line number*
+5. 向下五行
+	> 5j
+6. navigate between words
+	1. word begin
+		> w
+	2. word begin in the opposite direction 
+	  > b
+	3. word end
+	  > e
+7. scroll by pages
+	> crl + u
+	> crl + d 
+8. navigate with line number
+	> : *number* + enter
+	> *number* + G
+9. navigate with blank lines
+	> }
+	> {
+10. go to the end of the file
+	> G
+11. go to the begin of the line 
+	> $
+12. go to the end of the line
+	> 0
 
 # Delete
 1. single char
 	> x
-2. entire line
-	> dd
+2. delete words
+	1. delete single word 
+	  > dw
+	2. delete two words
+	  > d2w
+	3. entire line
+	  > dd
+
 
 # Undo 
 > u
@@ -55,8 +85,22 @@ tags: programming, command
 # Show line number
 > :set number
 
-# Paste 
-> +p
+
+
+# Visual mode 
+1. choose a certain range in the same line
+ 	> v
+2. copy
+	> y
+3. copy the whole line
+	> yy
+1. paste (paste the last thing being deleted or copied)
+	> p
+
+# Visual line mode
+1. choose a certain range in different lines
+	> shift + v
+2. 
 
 # Before quit
 1. save
