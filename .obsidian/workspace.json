@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program learning/Command/Vim.md",
+                "file": "Plans/sophomore/二年級寒假 計畫.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program learning/Command/Vim.md",
+                "file": "Plans/sophomore/二年級寒假 計畫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program learning/Command/Vim.md",
+                "file": "Plans/sophomore/二年級寒假 計畫.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program learning/Command/Vim.md"
+                "file": "Plans/sophomore/二年級寒假 計畫.md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "90c4e9db8455523a",
   "lastOpenFiles": [
-    "Program learning/Command/Terminal command.md",
     "Program learning/Command/Vim.md",
+    "Program learning/Command/Terminal command.md",
     "Program learning/Basic programming/GPE info.md",
     "Program learning/Drone/Nouns.md",
     "Program learning/Command/ROS command.md",
