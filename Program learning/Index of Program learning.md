@@ -19,7 +19,7 @@ tags:   __programming__, __theme(the name of the subfolder)__, __language__
 - [[Yolov5]]
 
 # Command
-- [[Git command]]
+- [[Git]]
 
 # Drone
 - [[開發日誌]]

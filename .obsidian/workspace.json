@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/sophomore/二年級寒假 計畫.md",
+                "file": "Program learning/Command/Vim.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "1679ff37c157989b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plans/sophomore/二年級寒假 計畫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans/sophomore/二年級寒假 計畫.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -145,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Plans/sophomore/二年級寒假 計畫.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,17 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90c4e9db8455523a",
+  "active": "084eb01a649fc785",
   "lastOpenFiles": [
+    "Program learning/Command/Terminal.md",
+    "Program learning/Command/Remap the keyboard.md",
+    "Program learning/Command/Git.md",
     "Program learning/Command/Vim.md",
-    "Program learning/Command/Terminal command.md",
+    "Program learning/Index of Program learning.md",
+    "Program learning/Command/ROS.md",
+    "Plans/sophomore/二年級寒假 計畫.md",
     "Program learning/Basic programming/GPE info.md",
     "Program learning/Drone/Nouns.md",
-    "Program learning/Command/ROS command.md",
-    "Program learning/Command/Git command.md",
-    "Program learning/Drone/開發日誌.md",
-    "Program learning/Drone/Mavros 連接.md",
-    "Program learning/Drone/Progress.md",
-    "Program learning/Drone/仿真 command.md"
+    "Program learning/Drone/開發日誌.md"
   ]
 }
