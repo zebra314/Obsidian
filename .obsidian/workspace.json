@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3285b04d98940e63",
+        "id": "9cbdcb18f051229b",
         "type": "tabs",
         "children": [
           {
-            "id": "afa4d78ca94bff85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Program learning/Basic programming/GPE info.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "90c4e9db8455523a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Program learning/Command/Vim.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1679ff37c157989b",
+            "id": "cd6d17b26a543696",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,16 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "084eb01a649fc785",
+  "active": "cd6d17b26a543696",
   "lastOpenFiles": [
+    "Program learning/Command/Vim.md",
     "Program learning/Command/Terminal.md",
+    "Program learning/Basic programming/GPE info.md",
     "Program learning/Command/Remap the keyboard.md",
     "Program learning/Command/Git.md",
-    "Program learning/Command/Vim.md",
     "Program learning/Index of Program learning.md",
     "Program learning/Command/ROS.md",
     "Plans/sophomore/二年級寒假 計畫.md",
-    "Program learning/Basic programming/GPE info.md",
     "Program learning/Drone/Nouns.md",
     "Program learning/Drone/開發日誌.md"
   ]
